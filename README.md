@@ -4,8 +4,8 @@ An small shell game written by c and python
 >The one written by c is finished but the python one is on the way
 ## How to run it
 
->for c
-Run the following command under the './writtenByC' folder
+###for c
+>Run the following command under the './writtenByC' folder
 ``` bash
 gcc -o app -Wall *.c
 ./app
